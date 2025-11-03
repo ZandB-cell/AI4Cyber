@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI4Cyber Gemini",
+  "description": "An AI platform for cybersecurity, featuring a Gemini-powered chatbot, advanced query analysis, and text-to-speech functionality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
